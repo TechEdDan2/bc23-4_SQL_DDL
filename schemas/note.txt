@@ -1,0 +1,11 @@
+There are three schemas, but I couldn't upload them due to an error:
+
+Counting objects: 14, done.
+Delta compression using up to 20 threads.
+Compressing objects: 100% (14/14), done.
+error: RPC failed; HTTP 400 curl 56 The requested URL returned error: 400
+fatal: The remote end hung up unexpectedly
+Writing objects: 100% (14/14), 1.59 MiB | 8.49 MiB/s, done.
+Total 14 (delta 1), reused 0 (delta 0)
+fatal: The remote end hung up unexpectedly
+Everything up-to-date
